@@ -1,3 +1,4 @@
 # git-basics-project
 Practice on basics
-Some changes.
+Some changes. 
+More.
